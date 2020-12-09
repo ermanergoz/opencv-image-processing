@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Opencv Image Processing</string>
+    <string name="sample_photo">Sample photo with measurements</string>
+    <string name="show_sample_photo">Show sample photo</string>
+    <string name="show_live_camera">Show live camera</string>
+    <string name="camera_permission_denied">Camera permission denied, showing the sample photo.</string>
+    <string name="opencv_not_loaded">OpenCV could not be loaded on this device.</string>
+</resources>
